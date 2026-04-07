@@ -1,8 +1,7 @@
 {
-  "lang": "hlsplaylist",
-  "location": null,
   "url": "https://github.com/Freed-Wu/tree-sitter-hlsplaylist",
-  "semver": false,
-  "min_version": null,
-  "max_version": null
+  "lang": "hlsplaylist",
+  "parser_version": "3bfda9271e3adb08d35f47a2102fe957009e1c55",
+  "location": null,
+  "semver": false
 }
